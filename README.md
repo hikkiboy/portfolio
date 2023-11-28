@@ -1,9 +1,9 @@
 
-# Ensino
+### Ensino
 Ensino médio;
 Curso técnico em Analise e desenvolvimento de sistemas
 
-# Projetos
+### Projetos
 
 ```
 https://github.com/hikkiboy/DeepLearningSmoke
