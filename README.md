@@ -1,4 +1,6 @@
-# PORTIFOLIO
+# Portfolio Gustavo Henrique
+
+portfolio de um aspirante a data scientist
 
 ## Ensino
 Ensino médio;
